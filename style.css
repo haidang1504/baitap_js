@@ -1,0 +1,51 @@
+.pText {
+  background-color: red;
+  font-size: 20px;
+  color: white;
+}
+
+.useName {
+  color: red;
+  font-size: 15px;
+}
+
+.total {
+  background-color: red;
+  font-size: 20px;
+  color: white;
+}
+
+.luong {
+  background-color: red;
+  color: white;
+  font-size: 20px;
+}
+/* bai tap  */
+
+/* bai tap 1  */
+.tongLuong {
+  background-color: red;
+  color: white;
+  font-size: 25px;
+}
+
+/* bai tap 2  */
+.doiTien {
+  background-color: red;
+  color: wheat;
+  font-size: 25px;
+}
+
+/* bai tap 3  */
+.tinh {
+  background-color: red;
+  color: white;
+  font-size: 25px;
+}
+
+/* bai tap 4 */
+.kiSo {
+  background-color: red;
+  color: white;
+  font-size: 25px;
+}
